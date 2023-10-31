@@ -1,14 +1,22 @@
 body {
     background: #CCCCCC;
 }
+#banner{
+    width: 100%
+}
 h1{
     color: darkorchid;
     background: yellow;
     text-align: center;
+
 }
 p {
     text-align:center;  
     font-size: 35px ;
+}
+
+#missao{
+    font-size: 30px
 }
 
 em strong {
