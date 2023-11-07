@@ -4,6 +4,9 @@ body {
 #banner{
     width: 100%
 }
+.principal{
+    background: #CCCCCC
+}
 h1{
     color: darkorchid;
     background: yellow;
@@ -21,4 +24,16 @@ p {
 
 em strong {
     color: blue;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.benefícios {
+    background: floralwhite;
+}
+
+h2 {
+    text-align: center;
 }
